@@ -6,7 +6,7 @@
 ## - Pattern recognition: Repeatedly split the list into halves until single elements remain, compare values when merging, the same process is used at every level of the recursion. 
 ## - Abstraction: Only the selected characteristic is used for sorting ignoring the other details, key steps like splitting and merging are shown while ignoring the rest of the details not involved in the process.
 ## - Algorithmic Thinking: Input: User provides a playlist and chooses a sorting key. Processing: Merge sort recursively splits and merges the playlist based on the chosen characteristic. Output: A sorted playlist is given to the user. GUI: Show the list is split into smaller parts and comparisons during merging, animate how elements move into their sorted positions, display the final ordered playlist. 
-## flowchart: <img width="201" height="793" alt="image" src="https://github.com/user-attachments/assets/209faadb-c384-4f69-bf2c-8c28e0898501" />
+## flowchart: <img width="430" height="790" alt="image" src="https://github.com/user-attachments/assets/f53c1852-de95-4078-86ea-946eb1a77e72" />
 ## Steps to Run (local) + requirements.txt 
 ## Hugging Face Link 
 ## Testing (what you tried + edge cases) 
